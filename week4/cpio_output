@@ -1,0 +1,26 @@
+1 block
+1 block
+1 block
+mkdir: cannot create directory ‘cpio’: File exists
+0 blocks
+./file1.c
+./filez.c
+1 block
+./tar.txt
+./file1.txt
+./awk5.txt
+./sed.txt
+./filez.txt
+13 blocks
+tar.txt
+file1.txt
+awk5.txt
+sed.txt
+filez.txt
+12 blocks
+tar.txt
+file1.txt
+awk5.txt
+sed.txt
+filez.txt
+12 blocks
