@@ -1,2 +1,0 @@
-mesg
-is n

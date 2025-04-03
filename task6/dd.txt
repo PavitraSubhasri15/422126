@@ -1,7 +1,0 @@
-dd
-uupercase
-appending some data
-skipping some data using dd command
-hey 
-this is Pavitra
-nice to meet you!
